@@ -9,3 +9,4 @@ cd P2PoolPeer
 ```
 python run_p2pool.py -n http://chain-pool.com:9332
 ```
+If needed to run an address, make sure to use the -a command and use a legacy address
